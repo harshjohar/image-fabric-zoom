@@ -1,0 +1,42 @@
+body {
+    overflow: hidden;
+
+}
+.canvas {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+canvas {
+    border: 2px dotted black;
+    height: 200px;
+    width: 400px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+}
+
+#deleteBtn {
+    margin: 10px;
+    cursor: pointer;
+    background: none;
+    outline: none;
+    border: none;
+    color: red;
+}
+
+.canvas p {
+    border: 1px solid black;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.canvas p:hover {
+    background-color: rgb(215, 219, 219);
+}

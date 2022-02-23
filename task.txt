@@ -1,0 +1,20 @@
+Hello Intern, Congratulations you have been shortlisted for the next round of the internship. In this round we expect you to deliver a project based upon a library FabricJS. You need to work with basic HTML and JavaScript for this. Do send us a zip file of what you are able to accomplish. Wish you all the best for the two tasks, give your best, See you on the other side ! 
+
+Please find attached a video demonstrating the final expected product. Anything similar would also work.
+
+Task 1 
+You have to create a fabric canvas with an upload button using which you can upload image to the canvas. ✅
+
+Task 2 
+
+This one will be slightly challenging. You need add a zoom in and zoom out functionality on the canvas such that the user can zoom in on any point of the image using mouse scroll and zoom out to a perfect image using scroll again. Please note that here the difficult part would be to make sure that the image always comes back to the original position when you zoom in and then zoom out.
+
+If you are able to finish up the given tasks in the next few days, you will be called up for an interview. Even if you are not able to complete the whole two tasks, do let us know how much you are able to finish up.
+
+Resources:
+http://fabricjs.com/fabric-intro-part-5
+https://drive.google.com/file/d/1sVOC04Zlf9tsJF04zSa_d3HYg4dC8eX1/view
+
+Thanks,
+Komal
+Assignment deadline: 23 February, 2022

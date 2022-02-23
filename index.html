@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZOOM</title>
+    <script src="jquery.min.js"></script>
+    <script src="fabric.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="canvas">
+        <p><label for="uploader" style="cursor: pointer;">Upload Image</label></p>
+        <canvas id="canvas" width="800" height="400"></canvas>
+        <button id="deleteBtn">Remove</button>
+        <div class="details">
+            <small>Scroll down to zoom in</small>
+            <small>Scroll Up to zoom out</small>
+        </div>
+    </div>
+    <input type="file"  accept="image/*" name="image" id="uploader" style="display: none;">
+    <script src="index.js"></script>
+    <script src="helper.js"></script>
+</body>
+
+</html>
